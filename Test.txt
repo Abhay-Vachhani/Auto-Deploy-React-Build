@@ -1,1 +1,1 @@
-This is testing for hosting
+This is testing for automated hosting
