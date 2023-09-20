@@ -1,1 +1,1 @@
-This is testing for automated hosting
+This is testing for automated deployment of branch
